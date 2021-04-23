@@ -1,0 +1,75 @@
+---------------------------------------------------------------
+likfit: likelihood maximisation using the function optimize.
+likfit: Use control() to pass additional
+         arguments for the maximisation function.
+        For further details see documentation for optimize.
+likfit: It is highly advisable to run this function several
+        times with different initial values for the parameters.
+likfit: WARNING: This step can be time demanding!
+---------------------------------------------------------------
+likfit: end of numerical maximisation.
+[1] "#############################################"
+[1] "part 1 is complete"
+likfit: estimated model parameters:
+    beta  sigmasq      phi 
+"0.4550" "0.5742" "0.0572" 
+Practical Range with cor=0.05 for asymptotic range: 0.1714482
+
+likfit: maximised log-likelihood = -748.4
+---------------------------------------------------------------
+likfit: likelihood maximisation using the function optimize.
+likfit: Use control() to pass additional
+         arguments for the maximisation function.
+        For further details see documentation for optimize.
+likfit: It is highly advisable to run this function several
+        times with different initial values for the parameters.
+likfit: WARNING: This step can be time demanding!
+---------------------------------------------------------------
+likfit: end of numerical maximisation.
+[1] "#############################################"
+[1] "part 2 is complete"
+likfit: estimated model parameters:
+     beta   sigmasq       phi 
+"-0.0920" " 0.3408" " 0.0452" 
+Practical Range with cor=0.05 for asymptotic range: 0.1353404
+
+likfit: maximised log-likelihood = -444.1
+---------------------------------------------------------------
+likfit: likelihood maximisation using the function optimize.
+likfit: Use control() to pass additional
+         arguments for the maximisation function.
+        For further details see documentation for optimize.
+likfit: It is highly advisable to run this function several
+        times with different initial values for the parameters.
+likfit: WARNING: This step can be time demanding!
+---------------------------------------------------------------
+likfit: end of numerical maximisation.
+[1] "#############################################"
+[1] "part 3 is complete"
+likfit: estimated model parameters:
+    beta  sigmasq      phi 
+"0.6854" "0.5903" "0.0815" 
+Practical Range with cor=0.05 for asymptotic range: 0.244127
+
+likfit: maximised log-likelihood = -433.8
+---------------------------------------------------------------
+likfit: likelihood maximisation using the function optimize.
+likfit: Use control() to pass additional
+         arguments for the maximisation function.
+        For further details see documentation for optimize.
+likfit: It is highly advisable to run this function several
+        times with different initial values for the parameters.
+likfit: WARNING: This step can be time demanding!
+---------------------------------------------------------------
+likfit: end of numerical maximisation.
+[1] "#############################################"
+[1] "part 4 is complete"
+likfit: estimated model parameters:
+    beta  sigmasq      phi 
+"0.3996" "0.3331" "0.0543" 
+Practical Range with cor=0.05 for asymptotic range: 0.1626972
+
+likfit: maximised log-likelihood = -247.1
+[1] "#############################################"
+[1] "total time taken :"
+Time difference of -1.096096 mins
